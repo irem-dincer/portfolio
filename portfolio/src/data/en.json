@@ -1,0 +1,33 @@
+{
+    "nav": {
+      "language": "SWITCH TO TURKISH",
+      "darkMode": "DARK MODE"
+    },
+    "hero": {
+      "name": "almila",
+      "title": "I am a Frontend Developer...",
+      "subtitle": "...who likes to craft solid and scalable frontend products with great user experiences."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "profile": {
+      "title": "Profile",
+      "basicInfo": "Basic Information",
+      "birthDate": "Birth Date",
+      "residence": "Residence",
+      "education": "Education",
+      "preferredRole": "Preferred Role",
+      "aboutMe": "About Me"
+    },
+    "projects": {
+      "title": "Projects",
+      "viewSite": "View Site",
+      "github": "Github",
+      "details": "Details"
+    },
+    "contact": {
+      "title": "Send me a message!",
+      "subtitle": "Got a question or proposal, or just want to say hello? Go ahead."
+    }
+  }

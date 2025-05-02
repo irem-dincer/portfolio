@@ -1,0 +1,33 @@
+{
+    "nav": {
+      "language": "İNGİLİZCE'YE GEÇ",
+      "darkMode": "KOYU MOD"
+    },
+    "hero": {
+      "name": "almila",
+      "title": "Ben bir Frontend Developer'ım...",
+      "subtitle": "...sağlam ve ölçeklenebilir frontend ürünleri oluşturmayı seven, harika kullanıcı deneyimleri sunan."
+    },
+    "skills": {
+      "title": "Yetenekler"
+    },
+    "profile": {
+      "title": "Profil",
+      "basicInfo": "Temel Bilgiler",
+      "birthDate": "Doğum tarihi",
+      "residence": "İkamet şehri",
+      "education": "Eğitim",
+      "preferredRole": "Tercih Ettiği Rol",
+      "aboutMe": "Hakkımda"
+    },
+    "projects": {
+      "title": "Projeler",
+      "viewSite": "Siteyi Gör",
+      "github": "Github",
+      "details": "Detaylar"
+    },
+    "contact": {
+      "title": "Bana bir mesaj gönder!",
+      "subtitle": "Bir sorun veya teklif mi var, ya da sadece merhaba mı demek istiyorsun? Devam et."
+    }
+  }
